@@ -872,12 +872,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/php-code-coverage.git",
-                "reference": "55a161bb93e6a22a21c529515f7ddbb4d489b460"
+                "reference": "78ba57219cc90cab324a5bf049d8c220d39ab828"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/55a161bb93e6a22a21c529515f7ddbb4d489b460",
-                "reference": "55a161bb93e6a22a21c529515f7ddbb4d489b460",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/78ba57219cc90cab324a5bf049d8c220d39ab828",
+                "reference": "78ba57219cc90cab324a5bf049d8c220d39ab828",
                 "shasum": ""
             },
             "require": {
@@ -942,7 +942,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-09-04T05:23:23+00:00"
+            "time": "2023-09-10T06:24:32+00:00"
         },
         {
             "name": "phpunit/php-file-iterator",
@@ -1191,12 +1191,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "bf8634b3ba03f344dd84c1a1107d57a96d5e6440"
+                "reference": "63d13467248f9c0d99243694a7796b5aafefa79f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/bf8634b3ba03f344dd84c1a1107d57a96d5e6440",
-                "reference": "bf8634b3ba03f344dd84c1a1107d57a96d5e6440",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/63d13467248f9c0d99243694a7796b5aafefa79f",
+                "reference": "63d13467248f9c0d99243694a7796b5aafefa79f",
                 "shasum": ""
             },
             "require": {
@@ -1286,7 +1286,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-09-04T11:57:30+00:00"
+            "time": "2023-09-10T06:22:24+00:00"
         },
         {
             "name": "sebastian/cli-parser",
